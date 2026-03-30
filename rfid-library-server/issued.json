@@ -1,0 +1,36 @@
+[
+  {
+    "student_uid": "28",
+    "student_name": "Tanmay",
+    "student_email": "tanmaynerurkar12@gmail.com",
+    "book_uid": "b002",
+    "book_title": "python",
+    "borrow_date": "2025-11-13T16:26:55.610Z",
+    "due_date": "2025-11-20T16:26:55.610Z",
+    "status": "Returned",
+    "return_date": "2025-11-13T17:02:02.939Z"
+  },
+  {
+    "student_uid": "28",
+    "student_name": "Tanmay",
+    "student_email": "tanmaynerurkar12@gmail.com",
+    "book_uid": "b001",
+    "book_title": "java",
+    "borrow_date": "2025-11-12T21:23:41.707Z",
+    "due_date": "2025-11-19T21:23:41.707Z",
+    "status": "Returned",
+    "return_date": "2025-11-27T20:32:23.600Z"
+  },
+  {
+    "id": 1764276085576,
+    "student_uid": "28",
+    "student_name": "Tanmay",
+    "student_email": "tanmaynerurkar12@gmail.com",
+    "book_uid": "B001",
+    "book_title": "Java",
+    "borrow_date": "2025-11-27T20:41:25.576Z",
+    "due_date": "2025-12-04T20:41:25.576Z",
+    "status": "Returned",
+    "return_date": "2025-11-27T21:33:30.733Z"
+  }
+]

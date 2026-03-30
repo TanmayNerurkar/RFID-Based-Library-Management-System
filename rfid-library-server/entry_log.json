@@ -1,0 +1,37 @@
+[
+  {
+    "roll": "28",
+    "name": "Tanmay",
+    "dept": "MCA2nd",
+    "entry_time": "13/11/2025, 10:00:45 pm",
+    "exit_time": "27/11/2025, 1:45:41 am"
+  },
+  {
+    "roll": "28",
+    "name": "Tanmay",
+    "dept": "MCA2nd",
+    "entry_time": "27/11/2025, 1:45:53 am",
+    "exit_time": "27/11/2025, 1:45:56 am"
+  },
+  {
+    "roll": "24",
+    "name": "Abhi",
+    "dept": "MCA2nd",
+    "entry_time": "28/11/2025, 2:03:51 am",
+    "exit_time": "28/11/2025, 2:04:20 am"
+  },
+  {
+    "roll": "28",
+    "name": "Tanmay",
+    "dept": "MCA2nd",
+    "entry_time": "28/11/2025, 2:06:30 am",
+    "exit_time": "28/11/2025, 2:07:16 am"
+  },
+  {
+    "roll": "24",
+    "name": "Abhi",
+    "dept": "MCA2nd",
+    "entry_time": "28/11/2025, 2:06:44 am",
+    "exit_time": "28/11/2025, 2:07:22 am"
+  }
+]

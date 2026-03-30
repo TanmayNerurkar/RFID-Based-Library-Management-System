@@ -1,0 +1,6 @@
+body {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+.table th, .table td {
+  vertical-align: middle !important;
+}
